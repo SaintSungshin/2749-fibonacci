@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//Àç±ÍÇÔ¼ö ÀÌ¿ëÇØ¼­ ÇÇº¸³ªÄ¡ ¼ö¿­ ±¸ÇÔ
+//ì¬ê·€í•¨ìˆ˜ ì´ìš©í•´ì„œ í”¼ë³´ë‚˜ì¹˜ ìˆ˜ì—´ êµ¬í•¨
 int fibonacci(int number)
 {
 	if (number == 0)
